@@ -45,7 +45,7 @@ namespace DecoratorApp
 
             //OJOOOOOOOOOOOOOOOOOO NO PODEMOS USAR METODOS ESPEFICICOS UNA VEZ QUE DECORAMOS  SOBRE ELLA
             //((CNitrogeno)miAuto).UsaN();
-            ((CAuto)miAuto).Puertas(false);
+           // ((CAuto)miAuto).Puertas(false);
             Console.ReadKey();
         }
     }
